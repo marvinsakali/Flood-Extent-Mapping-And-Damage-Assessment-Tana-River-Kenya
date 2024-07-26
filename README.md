@@ -10,3 +10,6 @@ This study underscores the utility of GIS technologies for rapid disaster respon
 ## Workflow
 ![flowchart](https://github.com/user-attachments/assets/3ea84d91-14a5-4c62-97aa-106c0d252ebd)
 ## Results Snippets
+![flood](https://github.com/user-attachments/assets/bb5ff9a8-adbd-4d09-8636-61f9ddf990df)
+![flood damage](https://github.com/user-attachments/assets/640a598f-ed7f-459b-99e4-22d083db398a)
+![GRAPH](https://github.com/user-attachments/assets/781e5083-c1c8-4e27-b47f-f3a49e26b2e4)
