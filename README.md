@@ -9,3 +9,4 @@ The analysis revealed that shrubland and cropland were the most affected land co
 This study underscores the utility of GIS technologies for rapid disaster response and planning, leveraging freely available datasets. Geospatial technologies play a vital role in disaster management by providing timely information about affected populations and land cover, aiding in search and rescue operations, and supporting effective post-disaster compensation and assistance.
 ## Workflow
 ![flowchart](https://github.com/user-attachments/assets/3ea84d91-14a5-4c62-97aa-106c0d252ebd)
+## Results Snippets
