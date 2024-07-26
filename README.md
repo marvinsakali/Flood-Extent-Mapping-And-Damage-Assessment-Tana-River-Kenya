@@ -13,3 +13,8 @@ This study underscores the utility of GIS technologies for rapid disaster respon
 ![flood](https://github.com/user-attachments/assets/bb5ff9a8-adbd-4d09-8636-61f9ddf990df)
 ![flood damage](https://github.com/user-attachments/assets/640a598f-ed7f-459b-99e4-22d083db398a)
 ![GRAPH](https://github.com/user-attachments/assets/781e5083-c1c8-4e27-b47f-f3a49e26b2e4)
+## DISCUSSIONS
+The flood analysis for the Tana River region in April 2024 indicated that approximately 14 square kilometers were inundated. The areas primarily affected by the flooding included scrubland, tree cover, and cropland.
+ This extensive flooding had significant implications for the local environment, economy, and communities.
+## Conclusion
+The 2024 Tana River flood highlights the importance of proactive disaster management and the use of geospatial technologies. The significant impact on land cover, infrastructure, and livelihoods highlights the importance of developing resilient strategies to mitigate natural disasters.
